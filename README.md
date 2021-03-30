@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs**, **React** and **Electron**
 - 📫 How to reach me: **gabtomazzi@gmail.com**
-- 🔭 I’m currently **seeking a job**, or **freelancer**
+- 🔭 I’m currently **a freelancer**, and **seeking a job**
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-tomazzi&show_icons=true" alt="gabi tomazzi"/> 
