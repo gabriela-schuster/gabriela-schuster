@@ -6,5 +6,6 @@
 - 🔭 I’m currently **a freelancer**, and **seeking a job**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-tomazzi&show_icons=true" alt="gabi tomazzi"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-tomazzi&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="gabi tomazzi"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-tomazzi&layout=compact&langs_count=8&theme=dracula">
 </p>
