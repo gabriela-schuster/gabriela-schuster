@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Django**, **mySQL** and mastering **Python**
 - 📫 How to reach me: **gabtomazzi@gmail.com**
-- 🔭 I’m currently **a freelancer**, and **seeking a job**
+- 🔭 I’m currently **seeking a job**
 
 <p align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-tomazzi&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" alt="gabi tomazzi"/> 
