@@ -5,8 +5,8 @@
 - 🔭 I’m currently **seeking a job**
 
 <p align="center">
-	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-tomazzi&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" alt="gabi tomazzi"/> 
-	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-tomazzi&layout=compact&langs_count=8&hide=c,roff&theme=onedark">
+	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-schuster&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" alt="gabi tomazzi"/> 
+	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-schuster&layout=compact&langs_count=8&hide=c,roff&theme=onedark">
 </p>
 
 #### Languages and others tecnologies
