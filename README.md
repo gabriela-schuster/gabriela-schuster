@@ -1,8 +1,8 @@
-<h1>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabi Tomazzi</h1>
+<h1>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabi Schuster</h1>
 
-- 🌱 I’m currently learning **Spring Boot/Data** and mastering **Java**
+- 🌱 I’m currently working with **NodeJs** and **MySql** as a **back-end developer**
 - 📫 How to reach me: **gabtomazzi@gmail.com**
-- 🔭 I’m currently **seeking a job**
+- 🔭 I’m currently **learning so much**
 
 <p align="center">
 	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-schuster&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" alt="gabi tomazzi"/> 
