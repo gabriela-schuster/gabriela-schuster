@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working with **NodeJs** and **MySql** as a **back-end developer**
 - 📫 How to reach me: **gabtomazzi@gmail.com**
-- 🔭 I’m currently **learning so much**
+- 🔭 I’m currently **graduating computer science**
 
 <p align="center">
 	<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-schuster&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" alt="gabi tomazzi"/> 
