@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-*   🌍  I'm based in **Lajeado/RS**
+*   🌍  I'm based in **Encantado/RS**
 *   ✉️  You can contact me at **[gabtomazzi@gmail.com](mailto:gabtomazzi@gmail.com)**
 *   🚀  I'm currently working on **[goBlockchain](http://goblockchain.io/)**
 *   🧠  I'm hands-on in **WEB3**
