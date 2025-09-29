@@ -6,7 +6,7 @@ Web Developer
 
 *   🌍  I'm based in **Encantado/RS**
 *   ✉️  You can contact me at **[gabtomazzi@gmail.com](mailto:gabtomazzi@gmail.com)**
-*   🚀  I'm currently working on **[forestoken]([http://goblockchain.io/](https://eyeforest.com.br/))**
+*   🚀  I'm currently working on **[forestoken](https://eyeforest.com.br/)**
 *   🧠  I'm hands-on in **WEB3**
 *   🔭  I’m currently on **1st semester of Systems Analysis and Development**
 
